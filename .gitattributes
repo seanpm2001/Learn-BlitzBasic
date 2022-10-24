@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# BlitzBasic source file
+*.bb linguist-detectable=true
+*.bb linguist-documentation=false
+*.bb linguist-language=BlitzBasic
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -159,12 +163,12 @@
 *.jp2 linguist-language=JPEG-2000
 # GIF
 *.gif linguist-detectable=false
-*.gif linguist-documentation=false
+*.gif linguist-documentation=-false
 *.gif linguist-language=GIF
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, October 23rd at 6:08 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
